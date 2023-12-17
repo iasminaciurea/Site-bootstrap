@@ -1,0 +1,68 @@
+nav {
+    font-family: 'Rock Salt', cursive;
+}
+
+.colornav {
+    background-color: rgb(196, 237, 220);
+}
+
+.logo {
+    max-width: 100%;
+    height: 3rem;
+}
+
+h1 {
+    font-family: 'Rock Salt', cursive;
+    font-size: 30px;
+
+}
+
+h2 {
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+}
+
+h3 {
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    font-size: 1.125rem;
+}
+
+header p {
+    font-family: 'Rock Salt', cursive;
+}
+
+p {
+    font-family: 'Oswald', sans-serif;
+}
+
+.pozaintro {
+    border-radius: 2rem;
+}
+
+.titlu {
+    text-decoration: none;
+    padding-left: 10px;
+}
+
+.chenarcard {
+    border: none;
+}
+
+.linie {
+    border-bottom: 1px dotted black;
+}
+
+.widthcard {
+    width: 18rem;
+}
+
+.colorcard {
+    background-color: #E6EFFA;
+}
+
+.buton {
+    text-decoration: none;
+    color: black;
+}
+
