@@ -3,7 +3,7 @@ nav {
 }
 
 .colornav {
-    background-color: rgba(230, 126, 126, 0.756);
+    background-color: rgb(232, 24, 48);
 }
 
 .logo {
@@ -14,7 +14,6 @@ nav {
 h1 {
     font-family: 'Arvo';
     font-size: 30px;
-
 }
 
 h2 {
@@ -30,6 +29,7 @@ h3 {
 
 header p {
     font-family: 'Arvo';
+    color: white;
 }
 
 p {
@@ -66,5 +66,9 @@ p {
 .buton {
     text-decoration: none;
     color: black;
+}
+
+footer{
+    color: white;
 }
 
